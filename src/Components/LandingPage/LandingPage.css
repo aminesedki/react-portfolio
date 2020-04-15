@@ -1,0 +1,45 @@
+
+.LandingPage{
+
+    background-image: url(./img/img.jpg); 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+.LandingPage #container{
+
+    width: 50%;
+    margin: 30px;
+    padding: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background-color: slategray;
+    background:rgba(0,255,255,0.1);
+    }
+    .LandingPage #container h3{
+     
+        margin: 50px 0 50px 0;
+        text-align: center;
+        font-size: 50px;
+        color:rgba(255,255,255,1);
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .LandingPage #container p{
+     
+        margin: 40px 0 40px 0;
+        text-align: center;
+        font-size: 40px;
+        color:rgba(255,255,255,1);
+    }
+  
+    .LandingPage #container .avatar{
+     
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+    }
