@@ -1,3 +1,33 @@
 .navBarColor{
   background:#4a4a46;  /* fallback for old browsers */
 }
+
+.navBarColor #navBarItem{
+
+font-size: 20px;
+font-weight: bold;
+color: white;
+
+}
+.navBarColor #navBarItem:hover{
+
+  text-decoration: underline;
+  background-color: gray;
+  
+  }
+
+  #titleNavBar{
+
+    text-decoration: none;  
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+
+  }
+
+  #titleNavBar:hover{
+
+    text-decoration: underline;
+    background-color: gray;
+
+  }
